@@ -5,6 +5,10 @@
 - <b>Creating a Cybersecurity Home Lab</b>
   - [Creating a Cybersecurity Home Lab](https://github.com/jayrthomason)
 
+<h2>📜 Certifications</h2>
+
+<b>CompTIA A+</b><br/>
+<b>AWS Certified Cloud Practitioner</b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
