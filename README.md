@@ -7,6 +7,7 @@
 
 <h2>📜 Certifications</h2>
 
+<b>CompTIA Security+</b><br/>
 <b>CompTIA A+</b><br/>
 <b>AWS Certified Cloud Practitioner</b>
 
