@@ -10,6 +10,7 @@
 <b>CompTIA Security+</b><br/>
 <b>CompTIA A+</b><br/>
 <b>AWS Certified Cloud Practitioner</b>
+<b>Splunk Certified Cybersecurity Defense Analyst</b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
