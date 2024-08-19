@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jay! <br/><a href="https://www.linkedin.com/in/jay-thomason-3a67422a/">Systems Analyst & Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Creating a Cybersecurity Home Lab</b>
   - [Creating a Cybersecurity Home Lab](https://github.com/jayrthomason)
